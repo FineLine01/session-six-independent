@@ -1,0 +1,79 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: 'Lato', sans-serif;
+}
+.head-wlc {
+    background-image:url(images-replica/banner.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+    width: 100%;
+    height: 80vh;
+    
+}
+
+.head-wlc h1 {
+    text-align: center;
+    position: absolute;
+    top: 35%;
+    left: 0;
+    right: 0;
+    font-size: 80px;
+    width: 100%;
+    height: 26px;
+    padding: 0;
+    margin: 0;
+}
+
+.top-nav {
+    text-align: center;
+    position: relative;
+    background-color: black;
+
+}
+.top-nav nav ul li {
+    display:inline;
+    padding: 25px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+h4 {
+    color: white;
+    text-align: center;
+}
+
+#danger {
+    justify-content: space-evenly;
+    display:flex;
+    width: 100%;
+    height: 50vh;
+}
+#nature {
+    justify-content: space-evenly;
+    display:flex;
+    width: 100%;
+    height: 50vh;
+}
+#chosen-one {
+    justify-content: space-evenly;
+    display:flex;
+    width: 100%;
+    height: 50vh;
+}
+
+.half {
+    max-width: 45%;
+    margin: 0.5em;
+    font-size: 1.5em;
+}
+
+.testimonials {
+    text-align: center;
+}
+
+
